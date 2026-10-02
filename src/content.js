@@ -12,13 +12,15 @@ export const content = {
     perryfinder: "https://perryfinder.netlify.app/",
   },
 
-  about: `I'm an entry-level full-stack developer based between Cameroon and India, currently studying Computer Applications while building real software on the side.
+    about: `I'm Bomene Perry Sakwe, a Full-Stack Developer and Bachelor of Computer Applications (BCA) student passionate about building secure, responsive, and modern web applications — end to end.
 
-I didn't start with a CS degree. I started by shipping things — an internship at Landmark Software Solution, freelance client work, and solo projects like SCF Media. Along the way I learned that the best way to grow as an engineer is to build something real and finish it.
+Currently pursuing my BCA at Swami Vivekanand Group of Institutes in Punjab, India, I'm continuously expanding my skills across the stack — from Java and Spring Boot backends to React and Tailwind frontends — while 
+working on projects that sharpen my technical and problem-solving abilities.
 
-I work across the stack: Java and Spring Boot on the backend, React and Tailwind on the frontend, SQL in between. I care about clean code, secure systems, and shipping things that actually work.
+I believe great software is built by people who never stop learning. I'm always eager to improve, embrace new challenges, and collaborate with others to create impactful digital solutions.
 
-When I'm not coding, I'm on the football pitch or deep in a game — both taught me more about teamwork and patience than I expected.`,
+My journey into technology began with a software development internship at Landmark Software Solution in Cameroon, where I worked with HTML, CSS, and JavaScript to build web applications, develop new features, fix bugs,
+ test software, and maintain existing codebases. That experience strengthened my passion for creating clean, functional, and engaging digital products — and led me to build my flagship project, SCF Media, a secure full-stack photo platform where only the rightful owner can download their images.`,
 
   skills: {
     Languages: ["Java", "JavaScript", "SQL", "HTML", "CSS", "C", "C++"],
